@@ -38,7 +38,6 @@ items:
  - mourner/rbush
  - tailhook/vagga
  - JSMonk/hegel
- - Tyrrrz/YoutubeExplode
  - dmytrodanylyk/folding-plugin
  - mapbox/delaunator
  - mapbox/flamebearer
@@ -49,7 +48,6 @@ items:
  - vadimdemedes/pastel
  - mapbox/supercluster
  - dmytrodanylyk/android-morphing-button
- - komarserjio/notejam
  - ttag-org/ttag
  - vmagamedov/grpclib
  - angrymouse/remote-functions

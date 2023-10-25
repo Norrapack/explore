@@ -9,7 +9,6 @@ items:
  - midudev/covid-vacuna
  - franciscop/picnic
  - postcss/postcss
- - browserslist/browserslist
  - carloscuesta/gitmoji
 display_name: Made in Spain
 created_by: eschiclers

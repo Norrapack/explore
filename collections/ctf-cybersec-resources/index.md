@@ -1,6 +1,5 @@
 ---
 items:
- - swisskyrepo/PayloadsAllTheThings
  - vitalysim/Awesome-Hacking-Resources
  - danielmiessler/SecLists
  - bettercap/bettercap
@@ -39,7 +38,6 @@ items:
  - teambi0s/InCTF
  - LOLBAS-Project/LOLBAS
  - devploit/CTF_OnlineTools
- - teambi0s/BSides-CTF
  - cliffe/SecGen
  - vaib25vicky/awesome-mobile-security
  - mantvydasb/RedTeaming-Tactics-and-Techniques

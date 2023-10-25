@@ -20,7 +20,6 @@ items:
  - liip/TheA11yMachine
  - a11yproject/a11yproject.com
  - GoogleChrome/accessibility-developer-tools
- - GoogleChrome/lighthouse
  - fejes713/accessibility-guide
  - adobe/leonardo
  - ZingGrid/zinggrid

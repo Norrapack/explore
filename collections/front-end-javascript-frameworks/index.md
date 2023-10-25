@@ -21,7 +21,6 @@ items:
  - Daemonite/material
  - lit/lit
  - aurelia/aurelia
- - sveltejs/svelte
  - neomjs/neo
  - preactjs/preact
  - ionic-team/stencil

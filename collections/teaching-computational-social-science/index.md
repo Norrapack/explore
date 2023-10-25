@@ -29,7 +29,6 @@ items:
  - jongbinjung/css-python-workshop 
  - adamrpah/CSSMA
  - cbpuschmann/stm_ic2s2
- - ohexel/comsocsci
  - atkindel/css_activities
  - chandrasg/lexica
  - PsiPhiTheta/Computational-SocSci-Labs

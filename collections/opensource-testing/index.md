@@ -46,7 +46,6 @@ items:
  - segment-boneyard/nightmare
  - reg-viz/reg-suit
  - xolvio/chimp
- - NimaSoroush/differencify
  - rsmbl/Resemble.js
  - wttech/aet
  - angrykoala/wendigo

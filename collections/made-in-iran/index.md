@@ -2,7 +2,6 @@
 items:
  - jadijadi/bestoon
  - jadijadi/justforfun
- - mr-hashemi/mr-hashemi
  - pashmaklang/pashmak
  - roshan-research/moratab
  - PyFarsi/pyabr

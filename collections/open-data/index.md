@@ -5,7 +5,6 @@ items:
  - Chicago/food-inspections-evaluation
  - OpenExoplanetCatalogue/open_exoplanet_catalogue
  - cernopendata/opendata.cern.ch
- - openaddresses/openaddresses
  - APIs-guru/openapi-directory
  - whosonfirst-data/whosonfirst-data
 display_name: Open data

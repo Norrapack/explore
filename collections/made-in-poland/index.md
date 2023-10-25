@@ -16,7 +16,6 @@ items:
  - damian-kolakowski/iOS-Hierarchy-Viewer
  - ku1ik/bitpocket
  - bernii/gauge.js
- - wuub/SublimeREPL
  - kamilkisiela/graphql-config
 
 display_name: Made in Poland

@@ -4,7 +4,6 @@ items:
  - getredash/redash
  - cool-RR/PySnooper
  - wix/react-native-navigation
- - linnovate/mean
  - appwrite/appwrite
  - snyk/cli
  - ealush/vest

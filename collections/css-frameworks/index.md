@@ -4,7 +4,6 @@ items:
  - foundation/foundation-sites
  - jgthms/bulma
  - uikit/uikit
- - Semantic-Org/Semantic-UI
  - Dogfalo/materialize
  - pure-css/pure
  - tailwindlabs/tailwindcss

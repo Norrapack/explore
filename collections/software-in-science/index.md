@@ -2,7 +2,6 @@
 items:
  - simbody/simbody
  - cms-sw/cmssw
- - ComputationalRadiationPhysics/picongpu
  - psas/av3-fc
  - astropy/astropy
  - dfm/emcee

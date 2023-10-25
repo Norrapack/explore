@@ -2,12 +2,10 @@
 items:
  - ghent360/riscvOnColorlight-5A-75B
  - trabucayre/litexOnColorlightLab004
- - darklife/darkriscv
  - chipsalliance/rocket-chip
  - sifive/freedom
  - openhwgroup/cv32e40p
  - lowRISC/ibex
- - openhwgroup/cva6
  - csail-csg/riscy-OOO
  - cornell-brg/lizard
  - minerva-cpu/minerva
@@ -45,7 +43,6 @@ items:
  - racerxdl/riskow
  - dev-board-tech/hdl-core-riscv-lite
  - DuinOS/riscuinho
- - Saanlima/RISC5Verilog_psram
  - Saanlima/RISC5Verilog_lpddr
  - jlpteaching/dinocpu
  - carlosedp/chiselv

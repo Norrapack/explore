@@ -13,7 +13,6 @@ items:
   - milooy/remote-or-flexible-work-company-in-korea
   - 738/awesome-sushi
   - konlpy/konlpy
-  - javascript-tutorial/ko.javascript.info
   - ClintJang/awesome-swift-korean-lecture
   - SKTBrain/KoBERT
   - line/centraldogma

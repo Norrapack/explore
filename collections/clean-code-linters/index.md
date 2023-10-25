@@ -24,7 +24,6 @@ items:
  - koalaman/shellcheck
  - r-lib/lintr
  - standardrb/standard
- - realm/SwiftLint
  - replicatedhq/dockerfilelint
  - mvdan/sh
  - ansible/ansible-lint

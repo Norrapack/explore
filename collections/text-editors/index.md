@@ -33,7 +33,6 @@ items:
  - Alexey-T/CudaText
  - orbitalquark/textadept
  - apache/netbeans
- - adsr/mle
 
 display_name: Text editors
 created_by: leereilly

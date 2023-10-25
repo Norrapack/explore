@@ -6,7 +6,6 @@ items:
  - muan/github-gmail
  - thieman/github-selfies
  - brentyates/prettypullrequests
- - sanemat/do-not-merge-wip-for-github
  - jasonlong/isometric-contributions
  - ForbesLindesay/github-real-names
  - benbalter/github-mention-highlighter
@@ -28,7 +27,6 @@ items:
  - ryanflorence/github-plusone-extension
  - Mottie/GitHub-userscripts
  - rgehan/octolenses
- - homerchen19/github-file-icons
  - StylishThemes/GitHub-Dark
  - xthexder/wide-github
  - berzniz/github_pr_tree
