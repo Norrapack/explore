@@ -2,12 +2,10 @@
 items:
  - ghent360/riscvOnColorlight-5A-75B
  - trabucayre/litexOnColorlightLab004
- - darklife/darkriscv
  - chipsalliance/rocket-chip
  - sifive/freedom
  - openhwgroup/cv32e40p
  - lowRISC/ibex
- - openhwgroup/cva6
  - csail-csg/riscy-OOO
  - cornell-brg/lizard
  - minerva-cpu/minerva
@@ -20,9 +18,7 @@ items:
  - YosysHQ/picorv32
  - tomverbeure/mr1
  - olofk/serv
- - chipsalliance/Cores-SweRV
- - chipsalliance/Cores-SweRV-EL2
- - chipsalliance/Cores-SweRV-EH2
+ - chipsalliance/Cores-VeeR-EH1
  - ultraembedded/biriscv
  - atthecodeface/cdl_hardware
  - Domipheus/RPU
@@ -31,13 +27,12 @@ items:
  - SonalPinto/kronos
  - stevehoover/warp-v
  - stnolting/neorv32
- - rafaelcalcada/steel-core
+ - riscv-steel/riscv-steel
  - klessydra/T13x
  - klessydra/T03x
  - klessydra/T02x
  - klessydra/F03x
  - stevehoover/RISC-V_MYTH_Workshop
- - haogwb/starsea_riscv
  - OSCPU/NutShell
  - riscvarchive/riscv-qemu
  - SpinalHDL/VexRiscv
@@ -48,7 +43,6 @@ items:
  - racerxdl/riskow
  - dev-board-tech/hdl-core-riscv-lite
  - DuinOS/riscuinho
- - Saanlima/RISC5Verilog_psram
  - Saanlima/RISC5Verilog_lpddr
  - jlpteaching/dinocpu
  - carlosedp/chiselv

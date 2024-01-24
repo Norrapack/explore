@@ -11,7 +11,6 @@ items:
  - demoscene-source-archive/blue-morpho
  - demoscene-source-archive/from-the-seas-to-the-stars
  - demoscene-source-archive/alive-here-now-forever
- - demoscene-source-archive/dropletia
  - demoscene-source-archive/glittermorphosis
  - demoscene-source-archive/horizon-machine
  - demoscene-source-archive/iiii-iv

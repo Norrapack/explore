@@ -1,6 +1,5 @@
 ---
 items:
- - swisskyrepo/PayloadsAllTheThings
  - vitalysim/Awesome-Hacking-Resources
  - danielmiessler/SecLists
  - bettercap/bettercap
@@ -39,7 +38,6 @@ items:
  - teambi0s/InCTF
  - LOLBAS-Project/LOLBAS
  - devploit/CTF_OnlineTools
- - teambi0s/BSides-CTF
  - cliffe/SecGen
  - vaib25vicky/awesome-mobile-security
  - mantvydasb/RedTeaming-Tactics-and-Techniques
@@ -59,7 +57,7 @@ items:
  - belane/I-CTF-FWHIBBIT
  - ihebski/factordb
  - CFI-UL/2018-CFI-CTF
- - Execut3/Held-CTF
+ - Execut3/CTF
  - teambi0s/InCTFj
  - trimstray/the-book-of-secret-knowledge
  - ctf-wiki/ctf-wiki

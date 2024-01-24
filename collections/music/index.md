@@ -12,8 +12,6 @@ items:
  - gillesdemey/Cumulus
  - metabrainz/picard
  - overtone/overtone
- - sonic-pi-net/sonic-pi
- - nukeop/nuclear
  - swdotcom/swdc-vscode-musictime
  - hundredrabbits/Orca
  - 8bitbubsy/pt2-clone
@@ -25,7 +23,6 @@ items:
  - pete-gordon/hivelytracker
  - kometbomb/klystrack
  - schismtracker/schismtracker
- - chunkypixel/TIATracker
  - milkytracker/MilkyTracker
 display_name: Music
 created_by: jonrohan

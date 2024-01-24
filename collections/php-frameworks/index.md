@@ -1,7 +1,6 @@
 ---
 items:
  - laravel/laravel
- - symfony/symfony
  - bcit-ci/CodeIgniter
  - slimphp/Slim
  - yiisoft/yii

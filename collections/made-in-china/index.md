@@ -36,7 +36,6 @@ items:
  - didi/DoKit
  - didi/cube-ui
  - didi/chameleon
- - didi/VirtualAPK
  - bilibili/ijkplayer
  - bilibili/flv.js
  - bilibili/DanmakuFlameMaster

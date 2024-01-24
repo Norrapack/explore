@@ -27,9 +27,8 @@ items:
  - mobileink/lab.compss
  - sschauss/css
  - jongbinjung/css-python-workshop 
- - adamrpah/KPHD_CSS
+ - adamrpah/CSSMA
  - cbpuschmann/stm_ic2s2
- - ohexel/comsocsci
  - atkindel/css_activities
  - chandrasg/lexica
  - PsiPhiTheta/Computational-SocSci-Labs

@@ -14,7 +14,6 @@ items:
  - VertaAI/modeldb
  - bentoml/BentoML 
  - pycaret/pycaret
- - whylabs/whylogs
  - argoproj/argo-workflows
  - zenml-io/zenml
  - aimhubio/aim

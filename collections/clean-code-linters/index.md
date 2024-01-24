@@ -23,8 +23,7 @@ items:
  - rodjek/puppet-lint
  - koalaman/shellcheck
  - r-lib/lintr
- - testdouble/standard
- - realm/SwiftLint
+ - standardrb/standard
  - replicatedhq/dockerfilelint
  - mvdan/sh
  - ansible/ansible-lint

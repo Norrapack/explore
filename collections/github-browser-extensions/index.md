@@ -5,8 +5,7 @@ items:
  - muan/github-dashboard
  - muan/github-gmail
  - thieman/github-selfies
- - Yatser/prettypullrequests
- - sanemat/do-not-merge-wip-for-github
+ - brentyates/prettypullrequests
  - jasonlong/isometric-contributions
  - ForbesLindesay/github-real-names
  - benbalter/github-mention-highlighter
@@ -28,13 +27,12 @@ items:
  - ryanflorence/github-plusone-extension
  - Mottie/GitHub-userscripts
  - rgehan/octolenses
- - homerchen19/github-file-icons
  - StylishThemes/GitHub-Dark
  - xthexder/wide-github
  - berzniz/github_pr_tree
  - N1ck/gifs-for-github
  - EnixCoda/Gitako
- - vladgolubev/quickreview-for-github
+ - vladholubiev/quickreview-for-github
  - matthizou/github-show-avatars
  - dderevjanik/github-vscode-icons
  - npmhub/npmhub
